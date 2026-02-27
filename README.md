@@ -1,46 +1,48 @@
 💻 Data Structures and Algorithms Practice
 
-Welcome to my Data Structures and Algorithms practice repository.
+This repository contains my solutions to various Data Structures and Algorithms problems solved as part of my continuous learning and interview preparation.
 
-This repository contains solutions to coding problems that I solve regularly to improve my problem-solving skills and strengthen my understanding of core computer science concepts.
+I use this space to improve logical thinking, understand problem-solving patterns, and write optimized Python solutions.
 
+🚀 Repository Highlights
 
-🚀 About This Repository
+- Language: Python
+- Focused on clean and readable code
+- Includes time and space complexity analysis
+- Organized topic-wise for better structure
 
-- Language Used: Python  
-- Focus: Clean code, optimized solutions, and clear logic  
-- Goal: Build strong foundations for technical interviews and placements  
+📂 Topics Covered
 
-Each solution includes:
-- Brief problem reference
-- Approach explanation
+- Arrays  
+- Strings  
+- Linked List  
+- Recursion  
+- Trees  
+- Graphs  
+
+More topics will be added as I progress.
+
+📌 What You Will Find in Each Solution
+
+Each problem file includes:
+
+- Problem reference
+- Brief explanation of the approach
 - Time Complexity
 - Space Complexity
+- Well-structured Python implementation
 
-📂 Folder Structure
+📈 Learning Philosophy
 
-Problems are organized topic-wise for better clarity:
+Rather than memorizing solutions, I focus on:
 
-- Arrays
-- Strings
-- Linked List
-- Recursion
-- Trees
-- Graphs
-
-More topics will be added as I continue learning.
-
-📈 Learning Approach
-
-I focus on:
-- Understanding patterns instead of memorizing solutions
-- Writing readable and structured code
-- Improving optimization techniques
+- Understanding patterns
+- Improving optimization skills
+- Writing structured and maintainable code
 - Practicing consistently
 
-🎯 Objective
+🎯 Purpose
 
-To continuously improve problem-solving ability and prepare effectively for coding interviews.
+To strengthen core computer science fundamentals and prepare effectively for technical interviews and coding assessments.
 
-Consistency and discipline matter more than speed.  
-This repository reflects my ongoing learning journey.
+Continuous improvement is the goal.
